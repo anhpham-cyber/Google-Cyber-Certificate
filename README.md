@@ -1,7 +1,7 @@
 # Google-Cyber-Certificate
 This repository showcases my progress and projects from the Google Cybersecurity Professional Certificate by Google on Coursera. It includes notes, labs, and hands-on exercises covering key areas such as network security, Linux, Python for cybersecurity, incident response, and SIEM tools.
 
-## 🧠 Certificate Overview
+## Certificate Overview
 
 - **[Google Cybersecurity Professional Certificate](https://coursera.org/share/9897c1d71f5a982c773406bf05277d36)**  
   *Issued by Google via Coursera*
@@ -10,7 +10,7 @@ This repository showcases my progress and projects from the Google Cybersecurity
 
 ---
 
-## 📘 Completed Courses
+## Completed Courses
 
 1. **[Play It Safe: Manage Security Risks](https://coursera.org/share/6408e49110f8c6dfdb6eae330cf87a7b)**  
    Learn to identify, assess, and mitigate organizational security risks.
@@ -32,7 +32,7 @@ This repository showcases my progress and projects from the Google Cybersecurity
 
 ---
 
-## 🧰 Skills Gained
+## Skills Gained
 
 - Network and system security  
 - Linux command-line operations  
@@ -43,7 +43,7 @@ This repository showcases my progress and projects from the Google Cybersecurity
 
 ---
 
-## 💡 About
+## About
 
 I’m passionate about cybersecurity and continuous learning.  
 This repository serves as a record of my training, progress, and projects as I work toward becoming a cybersecurity professional.
